@@ -1,4 +1,4 @@
-# Brain Tumor Detection Using Colorized and Greyscale MRI Scans
+# Deep Learning Based Brain Tumor Detection Using MRI Scans
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/Brain-Tumor-Detection-Using-Colorized-and-Greyscale-MRI-Scans/blob/main/Images/tumor_title.png?raw=true)  
 
