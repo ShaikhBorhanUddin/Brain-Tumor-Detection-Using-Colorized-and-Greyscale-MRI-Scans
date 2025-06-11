@@ -20,7 +20,7 @@
 
 ## Dataset  
 
-[Color Dataset](https://www.kaggle.com/datasets/shuvokumarbasakbd/brain-tumors-mri-crystal-clean-colorized-mri-data)  
+[RGB Dataset](https://www.kaggle.com/datasets/shuvokumarbasakbd/brain-tumors-mri-crystal-clean-colorized-mri-data)  
 
 [Greyscale Dataset](https://www.kaggle.com/datasets/beyzaetinkaya/brain-tumor-dataset?select=brain_tumor_dataset)  
 
