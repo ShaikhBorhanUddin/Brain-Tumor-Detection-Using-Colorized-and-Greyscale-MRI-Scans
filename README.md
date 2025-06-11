@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/github/repo-size/ShaikhBorhanUddin/Deep-Learning-Based-Brain-Tumor-Detection-Using-MRI-Scans" alt="Repo Size">
   <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/Deep-Learning-Based-Brain-Tumor-Detection-Using-MRI-Scans" alt="Last Commit">
   <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/Deep-Learning-Based-Brain-Tumor-Detection-Using-MRI-Scans" alt="Issues">
+   <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?logo=tensorflow" alt="Framework: TensorFlow">
+  <img src="https://img.shields.io/badge/Runtime-GPU%20(A100)-blue?logo=nvidia" alt="Runtime: GPU (A100)">
   <img src="https://img.shields.io/badge/Data%20Source-Kaggle-blue?logo=kaggle" alt="Data Source: Kaggle">
   <img src="https://img.shields.io/badge/Data%20Visualization-Python-yellow?logo=python" alt="Data Visualization: Python">
   <img src="https://img.shields.io/badge/Result%20Visualization-GradCAM%20%7C%20GradCAM++-red?style=flat" alt="Result Visualization: GradCAM | GradCAM++">
