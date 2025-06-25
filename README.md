@@ -18,6 +18,18 @@
 
 ![Dashboard](https://github.com/ShaikhBorhanUddin/Deep-Learning-Based-Brain-Tumor-Detection-Using-MRI-Scans/blob/main/Images/brain_tumor_title.png?raw=true)  
 
+This project aims to classify brain MRI scans into four categories: **Normal**, **Glioma Tumor**, **Meningioma Tumor**, and **Pituitary Tumor**, using advanced deep learning techniques. Leveraging a variety of powerful pretrained models, such as **VGG19**, **DenseNet201**, **ResNet152V2**, **EfficientNetB5**, and **ConvNeXt-Base** —the system is designed to explore and compare model performance on complex medical imaging data.
+
+Key features include:
+- Comprehensive preprocessing and augmentation of MRI images
+- Implementation of multiple transfer learning architectures using TensorFlow and Keras
+- Rigorous evaluation using accuracy, precision, recall, F1-score, and confusion matrix
+- Visualization of model performance and predictions to support interpretability
+
+This project provides a scalable and automated solution to assist radiologists in the early detection and classification of brain tumors from MRI scans.
+
+
+
 ## Dataset  
 
 [RGB Dataset](https://www.kaggle.com/datasets/shuvokumarbasakbd/brain-tumors-mri-crystal-clean-colorized-mri-data)  
